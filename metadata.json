@@ -1,0 +1,6 @@
+{
+  "name": "고강선사유적체험관",
+  "description": "부천 고강동 청동기 유적과 환호, 움집터, 청동기 도구를 테마로 한 유물 카드 뒤집기, 반달돌칼 벼베기 팡팡, 청동기 움집 짓기 체험 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
